@@ -110,7 +110,8 @@ body.card-open{
   letter-spacing:0.02em;
   text-shadow:0 1px 4px rgba(0,0,0,0.05);
 }
-.subtitle{margin:0 auto 18px;max-width:760px;color:var(--muted)}
+.subtitle{margin:0 auto 12px;max-width:760px;color:var(--muted)}
+.site-note{margin:0 auto 0 0;max-width:760px;color:var(--muted);font-size:0.88rem;line-height:1.6;opacity:0.9;}
 .cta{
   display:inline-block;padding:10px 18px;border-radius:30px;background:linear-gradient(135deg, var(--nogizaka), var(--gold));color:#fff;text-decoration:none;font-weight:700;
   box-shadow:0 8px 24px rgba(129,41,144,0.14);
